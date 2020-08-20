@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5bf695a4-dc76-4984-a684-6f5b5736d5b1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mtg-bot",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}

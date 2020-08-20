@@ -1,0 +1,7 @@
+- Get Card info from Scryfall based message sent by user in discord
+    - Send message back to channel with card information
+    - Link to the scryfall database of card
+
+- Deck Builder 
+    - "!add <cardname> to <deckname>"
+    - "!print <deckname>"
